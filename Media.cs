@@ -1,7 +1,5 @@
 ﻿/*
   Class:  Media.cs
-  Author: Nicholas J. Corkigian
-  Date:   October 5, 2017
 
           This code is not to be altered.
 */
