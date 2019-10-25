@@ -6,8 +6,6 @@ namespace Lab3A
 {
     /*
   Interface: ISearchable.cs
-  Author:    Nicholas J. Corkigian
-  Date:      October 5, 2017
 
   Purpose: This interface has one method that classes making use of must
            implement. 
