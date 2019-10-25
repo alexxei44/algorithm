@@ -6,8 +6,6 @@ namespace Lab3A
 {
     /*
   Interface: IEncryptable.cs
-  Author:    Nicholas J. Corkigian
-  Date:      October 05, 2017
 
   Purpose: This interface has two methods that classes making use of must
            implement. 
